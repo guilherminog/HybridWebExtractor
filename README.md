@@ -92,8 +92,5 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE par
 ## 👨‍💻 Autor
 
 Desenvolvido por **Guilhermino Gomes**
+- [LinkedIn ](https://www.linkedin.com/in/guilherminog/)
 
----
-
-Este README fornece uma visão clara e completa do projeto, ajudando os usuários a entenderem o propósito, as funcionalidades e como configurar e executar o script.
-```
